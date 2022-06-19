@@ -1,0 +1,9 @@
+.userdata{
+    display: flex;
+    flex-direction: column;
+}
+.userdata h2{
+    margin: 2rem;
+    color: gray;
+    font-family: cursive;
+}
